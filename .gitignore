@@ -14,3 +14,6 @@ _book
 *.epub
 *.mobi
 *.pdf
+/build/
+/dist/
+/abfn.egg-info/
